@@ -1,0 +1,85 @@
+jab975@crunchy6[submission]$ ./genprime 10000 1
+Time taken for the main part: 0.069608
+jab975@crunchy6[submission]$ ./genprime 10000 1
+Time taken for the main part: 0.071158
+jab975@crunchy6[submission]$ ./genprime 10000 1
+Time taken for the main part: 0.069332
+jab975@crunchy6[submission]$ ./genprime 10000 1
+Time taken for the main part: 0.069312
+jab975@crunchy6[submission]$ ./genprime 10000 1
+Time taken for the main part: 0.069801
+jab975@crunchy6[submission]$ ./genprime 10000 1
+Time taken for the main part: 0.069358
+jab975@crunchy6[submission]$ ./genprime 10000 2
+Time taken for the main part: 0.070583
+jab975@crunchy6[submission]$ ./genprime 10000 2
+Time taken for the main part: 0.070116
+jab975@crunchy6[submission]$ ./genprime 10000 2
+Time taken for the main part: 0.069481
+jab975@crunchy6[submission]$ ./genprime 10000 2
+Time taken for the main part: 0.069262
+jab975@crunchy6[submission]$ ./genprime 10000 2
+Time taken for the main part: 0.069300
+jab975@crunchy6[submission]$ ./genprime 10000 2
+Time taken for the main part: 0.069321
+jab975@crunchy6[submission]$ ./genprime 10000 5
+Time taken for the main part: 0.017780
+jab975@crunchy6[submission]$ ./genprime 10000 5
+Time taken for the main part: 0.017756
+jab975@crunchy6[submission]$ ./genprime 10000 5
+Time taken for the main part: 0.021259
+jab975@crunchy6[submission]$ ./genprime 10000 5
+Time taken for the main part: 0.021403
+jab975@crunchy6[submission]$ ./genprime 10000 5
+Time taken for the main part: 0.018518
+jab975@crunchy6[submission]$ ./genprime 10000 5
+Time taken for the main part: 0.020897
+jab975@crunchy6[submission]$ ./genprime 10000 10
+Time taken for the main part: 0.022884
+jab975@crunchy6[submission]$ ./genprime 10000 10
+Time taken for the main part: 0.018690
+jab975@crunchy6[submission]$ ./genprime 10000 10
+Time taken for the main part: 0.024118
+jab975@crunchy6[submission]$ ./genprime 10000 10
+Time taken for the main part: 0.023151
+jab975@crunchy6[submission]$ ./genprime 10000 10
+Time taken for the main part: 0.023252
+jab975@crunchy6[submission]$ ./genprime 10000 10
+Time taken for the main part: 0.023109
+jab975@crunchy6[submission]$ ./genprime 10000 25
+Time taken for the main part: 0.005867
+jab975@crunchy6[submission]$ ./genprime 10000 25
+Time taken for the main part: 0.005730
+jab975@crunchy6[submission]$ ./genprime 10000 25
+Time taken for the main part: 0.005880
+jab975@crunchy6[submission]$ ./genprime 10000 25
+Time taken for the main part: 0.005843
+jab975@crunchy6[submission]$ ./genprime 10000 25
+Time taken for the main part: 0.006094
+jab975@crunchy6[submission]$ ./genprime 10000 25
+Time taken for the main part: 0.005994
+jab975@crunchy6[submission]$ ./genprime 10000 50
+Time taken for the main part: 0.023606
+jab975@crunchy6[submission]$ ./genprime 10000 50
+Time taken for the main part: 0.029273
+jab975@crunchy6[submission]$ ./genprime 10000 50
+Time taken for the main part: 0.027847
+jab975@crunchy6[submission]$ ./genprime 10000 50
+Time taken for the main part: 0.030359
+jab975@crunchy6[submission]$ ./genprime 10000 50
+Time taken for the main part: 0.027534
+jab975@crunchy6[submission]$ ./genprime 10000 50
+Time taken for the main part: 0.026657
+jab975@crunchy6[submission]$ ./genprime 10000 100
+Time taken for the main part: 0.025574
+jab975@crunchy6[submission]$ ./genprime 10000 100
+Time taken for the main part: 0.021677
+jab975@crunchy6[submission]$ ./genprime 10000 100
+Time taken for the main part: 0.015966
+jab975@crunchy6[submission]$ ./genprime 10000 100
+Time taken for the main part: 0.016627
+jab975@crunchy6[submission]$ ./genprime 10000 100
+Time taken for the main part: 0.014519
+jab975@crunchy6[submission]$ ./genprime 10000 100
+Time taken for the main part: 0.017706
+
